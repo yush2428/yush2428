@@ -9,6 +9,6 @@
 
 **Technologies Used:**
 
-- <img src="./php.svg" height="40px"> PHP
-- <img src="./laravel.svg" height="40px"> Laravel
-- <img src="./react.svg" height="40px"> React
+- PHP &nbsp; &nbsp;<img src="./php.svg" height="30px">
+- Laravel &nbsp; &nbsp;<img src="./laravel.svg" height="40px">
+- React &nbsp; &nbsp;<img src="./react.svg" height="40px">
